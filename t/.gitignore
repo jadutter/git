@@ -1,4 +1,5 @@
 /trash directory*
+/trash*
 /test-results
 /.prove
 /chainlinttmp
